@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uboliape.github.io/Zbo/sitemap_index.txt
+Sitemap: https://uboliape.github.io/aYk/sitemap_index.txt
+Sitemap: https://uboliape.github.io/atB/sitemap_index.txt
+Sitemap: https://uboliape.github.io/iZM/sitemap_index.txt
